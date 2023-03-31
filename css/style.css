@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+}
+
+.header {
+    height: 50px;
+    width: 100%;
+    
+}
+
+.header hr {
+    border: 0;
+    border-top: 1px solid #ccc; 
+    width: 90%;
+}
